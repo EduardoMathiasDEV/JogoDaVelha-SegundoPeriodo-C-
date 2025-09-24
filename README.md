@@ -9,10 +9,10 @@ O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lóg
 
 ✨ Funcionalidades
 
-✅ Modo Jogador vs Jogador (PvP)
-✅ Modo Jogador vs Computador (Fácil) — CPU joga de forma aleatória
-✅ Modo Jogador vs Computador (Difícil) — CPU usa lógica estratégica (defende, ataca e prioriza centro/cantos)
-✅ Ranking em tempo real — contabiliza vitórias do X, do O/CPU e empates
+✅ Modo Jogador vs Jogador (PvP) <br>
+✅ Modo Jogador vs Computador (Fácil) — CPU joga de forma aleatória <br>
+✅ Modo Jogador vs Computador (Difícil) — CPU usa lógica estratégica (defende, ataca e prioriza centro/cantos) <br>
+✅ Ranking em tempo real — contabiliza vitórias do X, do O/CPU e empates <br>
 ✅ Interface simples via console
 
 📋 Menu Principal
