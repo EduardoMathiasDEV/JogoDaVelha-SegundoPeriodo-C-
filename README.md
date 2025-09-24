@@ -5,7 +5,7 @@
 Um jogo da velha clássico feito em C#, rodando direto no terminal, com múltiplos modos de jogo e sistema de ranking.
 Simples, divertido e perfeito para treinar lógica de programação! 🚀
 Este projeto é uma implementação completa e interativa do clássico Jogo da Velha em C#, rodando diretamente no console.
-O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lógica de programação, estruturas de dados e inteligência artificial simples. <br>
+O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lógica de programação, estruturas de dados e inteligência artificial simples. <br> <br> <br>
 
 ✨ Funcionalidades
 
