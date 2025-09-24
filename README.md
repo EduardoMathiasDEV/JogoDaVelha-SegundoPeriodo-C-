@@ -13,8 +13,8 @@ O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lóg
 ✅ Modo Jogador vs Computador (Fácil) — CPU joga de forma aleatória <br>
 ✅ Modo Jogador vs Computador (Difícil) — CPU usa lógica estratégica (defende, ataca e prioriza centro/cantos) <br>
 ✅ Ranking em tempo real — contabiliza vitórias do X, do O/CPU e empates <br>
-✅ Interface simples via console
-<br>
+✅ Interface simples via console <br> <br> <br>
+
 📋 Menu Principal
 
 Ao iniciar, você verá o menu:
@@ -29,26 +29,25 @@ Ao iniciar, você verá o menu:
 0. Sair
 
 
-Basta escolher a opção digitando o número correspondente.
-<br>
+Basta escolher a opção digitando o número correspondente. <br> <br> <br>
+
 🏆 Ranking
 
 Jogador X → vitórias do primeiro jogador
 
 Computador/Jogador O → vitórias do segundo jogador ou da CPU
 
-Empates → partidas sem vencedor
-<br>
+Empates → partidas sem vencedor <br> <br> <br>
+
 🛠️ Tecnologias Usadas
 
 C#
 
 .NET 8.0
 
-Console Application
+Console Application <br> <br> <br>
 
-<br>
-<br>
+
 👨‍💻 Autor
 
 Feito com 💙 por Eduardo
