@@ -1,5 +1,5 @@
-# Jogo da Velha — Ultimate Console Edition
-<br>
+# Jogo da Velha — Ultimate Console Edition <br>
+
 🕹️ Jogo da Velha
 
 Um jogo da velha clássico feito em C#, rodando direto no terminal, com múltiplos modos de jogo e sistema de ranking.
