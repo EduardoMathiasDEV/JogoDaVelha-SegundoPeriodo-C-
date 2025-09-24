@@ -19,7 +19,7 @@ O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lóg
 
 Ao iniciar, você verá o menu:
 
-|---------------------------------------|
+
 |   BEM VINDO AO MELHOR JOGO DA VELHA   |
 |---------------------------------------|
 1. Jogador vs Jogador
