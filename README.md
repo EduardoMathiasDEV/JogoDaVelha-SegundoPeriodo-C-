@@ -1,12 +1,12 @@
 # Jogo da Velha — Ultimate Console Edition
-
+<br>
 🕹️ Jogo da Velha
 
 Um jogo da velha clássico feito em C#, rodando direto no terminal, com múltiplos modos de jogo e sistema de ranking.
 Simples, divertido e perfeito para treinar lógica de programação! 🚀
 Este projeto é uma implementação completa e interativa do clássico Jogo da Velha em C#, rodando diretamente no console.
 O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lógica de programação, estruturas de dados e inteligência artificial simples.
-
+<br>
 ✨ Funcionalidades
 
 ✅ Modo Jogador vs Jogador (PvP) <br>
@@ -14,7 +14,7 @@ O objetivo principal é divertir e, ao mesmo tempo, demonstrar conceitos de lóg
 ✅ Modo Jogador vs Computador (Difícil) — CPU usa lógica estratégica (defende, ataca e prioriza centro/cantos) <br>
 ✅ Ranking em tempo real — contabiliza vitórias do X, do O/CPU e empates <br>
 ✅ Interface simples via console
-
+<br>
 📋 Menu Principal
 
 Ao iniciar, você verá o menu:
@@ -30,7 +30,7 @@ Ao iniciar, você verá o menu:
 
 
 Basta escolher a opção digitando o número correspondente.
-
+<br>
 🏆 Ranking
 
 Jogador X → vitórias do primeiro jogador
@@ -38,7 +38,7 @@ Jogador X → vitórias do primeiro jogador
 Computador/Jogador O → vitórias do segundo jogador ou da CPU
 
 Empates → partidas sem vencedor
-
+<br>
 🛠️ Tecnologias Usadas
 
 C#
@@ -47,7 +47,8 @@ C#
 
 Console Application
 
-
+<br>
+<br>
 👨‍💻 Autor
 
 Feito com 💙 por Eduardo
